@@ -1,4 +1,5 @@
 Mutual Funds Performance Analysis Dashboard
+
 Description:
 This project involves the creation of an interactive dashboard in Microsoft Excel to analyze the performance of mutual funds over various time periods. The dashboard is designed to provide detailed insights into the performance of mutual funds based on average returns over 1, 3, and 5 years, examine the correlation between different return periods, and categorize the top-performing funds. This project aims to help stakeholders make informed investment decisions based on comprehensive data analysis.
 Business Questions Addressed:
